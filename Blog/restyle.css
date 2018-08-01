@@ -1,0 +1,29 @@
+a {
+    
+}
+footer {
+    text-align: center;
+}
+.article {
+    margin-top: 50px;
+    font-family: monospace;
+}
+body {
+    background: #696969;
+}
+div {
+    color: whitesmoke;
+}
+h1 {
+    color: whitesmoke;
+}
+h4 {
+    color: whitesmoke;
+}
+.brdr{
+    border: 2px dashed whitesmoke;
+    padding: 10px;
+}
+.add{
+    padding-bottom: 10px;
+}
